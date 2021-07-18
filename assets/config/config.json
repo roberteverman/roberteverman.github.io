@@ -1,0 +1,5 @@
+{
+  "use_test_data": false,
+  "refresh_rate": 20,
+  "walk_fetch": "https://bobbysworld.io/cgi-bin/walk_fetch.py"
+}

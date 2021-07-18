@@ -1,0 +1,424 @@
+{
+  "titleEn": "Enemy Combat Strength",
+  "titleKor": "적전투력현황",
+  "dtgLocal": "020700(Z)JUN21",
+  "dtgZulu": "021600(I)JUN21",
+  "opr": "C25",
+  "oprPhone" : "723-5469",
+  "bannerColor" : "yellow",
+  "header" : "TRAINING-TRAINING-TRAINING",
+  "headerColor" : "red",
+  "classification" : "//JOINT UNCLASSIFIED USA, KOR//REL TO USA, KOR",
+  "classificationColor" : "green",
+  "categories": [
+    {
+      "order" : 0,
+      "layout": "left",
+      "categoryKor": "탄도 미사일",
+      "categoryEn": "TBM",
+      "display" : "63% (732 / 234 / 476)",
+      "remaining" : ".63",
+      "keyKor" : "최초 / 발사 및 파괴 / 가용",
+      "keyEn" : "Initial / Launch or Destroyed / Available",
+      "subcategories": [
+        {
+          "order": 0,
+          "subcategoryKor": "",
+          "subcategoryEn": "",
+          "items": [
+            {
+              "order": 0,
+              "itemKor": "KN01",
+              "itemEn": "(5%)",
+              "display": "295/122/34",
+              "remaining":  ".23",
+              "color":  "black"
+            },
+            {
+              "order": 1,
+              "itemKor": "KN02",
+              "itemEn": "(42%)",
+              "display": "273/13/97",
+              "remaining":  ".25",
+              "color":  "black"
+            },
+            {
+              "order": 2,
+              "itemKor": "KN03",
+              "itemEn": "(12%)",
+              "display": "44/32/23",
+              "remaining":  ".11",
+              "color":  "green"
+            },
+            {
+              "order": 3,
+              "itemKor": "KN04",
+              "itemEn": "(31%)",
+              "display": "19/3/65",
+              "remaining":  ".8",
+              "color":  "yellow"
+            },
+            {
+              "order": 4,
+              "itemKor": "KN05",
+              "itemEn": "(65%)",
+              "display": "11/4/2",
+              "remaining":  ".54",
+              "color":  "yellow"
+            },
+            {
+              "order": 5,
+              "itemKor": "KN06",
+              "itemEn": "(1%)",
+              "display": "12/9/22",
+              "remaining":  ".2",
+              "color":  "red"
+            },
+            {
+              "order": 6,
+              "itemKor": "KN07",
+              "itemEn": "(77%)",
+              "display": "8/11/1",
+              "remaining":  ".31",
+              "color":  "grey"
+            },
+            {
+              "order": 7,
+              "itemKor": "KN08",
+              "itemEn": "(24%)",
+              "display": "14/5/10",
+              "remaining":  ".88",
+              "color":  "red"
+            },
+            {
+              "order": 8,
+              "itemKor": "KN09",
+              "itemEn": "(21%)",
+              "display": "11/10/4",
+              "remaining":  ".97",
+              "color":  "green"
+            },
+            {
+              "order": 9,
+              "itemKor": "KN10",
+              "itemEn": "(9%)",
+              "display": "14/10/2",
+              "remaining":  ".1",
+              "color":  "green"
+            },
+            {
+              "order": 10,
+              "itemKor": "KN11",
+              "itemEn": "(98%)",
+              "display": "17/10/1",
+              "remaining":  ".4",
+              "color":  "green"
+            },
+            {
+              "order": 11,
+              "itemKor": "KN12",
+              "itemEn": "(3%)",
+              "display": "12/10/8",
+              "remaining":  ".5",
+              "color":  "yellow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order" : 1,
+      "layout" : "left",
+      "categoryKor": "해군",
+      "categoryEn": "Navy",
+      "display" : "44% (912 / 113 / 35)",
+      "remaining" : ".44",
+      "keyKor" : "최초 / 격추 / 가용",
+      "keyEn" : "Initial / Down / Available",
+      "subcategories": [
+        {
+          "order": 0,
+          "subcategoryKor": "",
+          "subcategoryEn": "",
+          "items": [
+            {
+              "order": 0,
+              "itemKor": "잠수함 (8%)",
+              "itemEn": "Submarines",
+              "display": "71/32/46",
+              "remaining":  ".08",
+              "color":  "grey"
+            },
+            {
+              "order": 1,
+              "itemKor": "수상함 (32%)",
+              "itemEn": "Vessels",
+              "display": "552/341/219",
+              "remaining":  ".32",
+              "color":  "red"
+            },
+            {
+              "order": 2,
+              "itemKor": "상륙함 (89%)",
+              "itemEn": "Landing Ships",
+              "display": "321/23/285",
+              "remaining":  ".89",
+              "color":  "yellow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order" : 2,
+      "layout" : "left",
+      "categoryKor": "공군",
+      "categoryEn": "Air Force",
+      "display" : "50% (700 / 100 / 50)",
+      "remaining" : ".5",
+      "keyKor" : "최초 / 격추 / 가용",
+      "keyEn" : "Initial / Down / Available",
+      "subcategories": [
+        {
+          "order": 0,
+          "subcategoryKor": "",
+          "subcategoryEn": "",
+          "items": [
+            {
+              "order": 0,
+              "itemKor": "전투 - 폭격기 (66%)",
+              "itemEn": "Bombers - Fighters",
+              "display": "823/743/12",
+              "remaining":  ".66",
+              "color":  "red"
+            },
+            {
+              "order": 1,
+              "itemKor": "",
+              "itemEn": "AN-2 (92%)",
+              "display": "345/122/11",
+              "remaining":  ".92",
+              "color":  "green"
+            },
+            {
+              "order": 2,
+              "itemKor": "헬기 (34%)",
+              "itemEn": "Helo",
+              "display": "221/71/73",
+              "remaining":  ".34",
+              "color":  "black"
+            },
+            {
+              "order": 3,
+              "itemKor": "기타 (87%)",
+              "itemEn": "Etc.",
+              "display": "98/23/12",
+              "remaining":  ".87",
+              "color":  "yellow"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "order" : 3,
+      "layout" : "right",
+      "categoryKor": "지상군",
+      "categoryEn": "Army",
+      "display" : "50% (700 / 100 / 50)",
+      "remaining" : ".5",
+      "keyKor" : "",
+      "keyEn" : "",
+      "subcategories": [
+        {
+          "order": 0,
+          "subcategoryKor": "전방군단 - 집단군",
+          "subcategoryEn": "Forward Corps - Armies",
+          "items": [
+            {
+              "order": 0,
+              "itemKor": "1집단군",
+              "itemEn": "1st Army",
+              "display": "99%",
+              "remaining":  ".99",
+              "color":  "green"
+            },
+            {
+              "order": 1,
+              "itemKor": "2집단군",
+              "itemEn": "2nd Army",
+              "display": "71%",
+              "remaining":  ".71",
+              "color":  "red"
+            },
+            {
+              "order": 2,
+              "itemKor": "3집단군",
+              "itemEn": "3rd Army",
+              "display": "3%",
+              "remaining":  ".03",
+              "color":  "grey"
+            },
+            {
+              "order": 3,
+              "itemKor": "4집단군",
+              "itemEn": "4th Army",
+              "display": "79%",
+              "remaining":  ".79",
+              "color":  "yellow"
+            }
+          ]
+        },
+        {
+          "order": 1,
+          "subcategoryKor": "후방군단 - 집단군",
+          "subcategoryEn": "Rear Corps - Armies",
+          "items": [
+            {
+              "order": 0,
+              "itemKor": "1군단",
+              "itemEn": "1st Corps",
+              "display": "95%",
+              "remaining":  ".95",
+              "color":  "green"
+            },
+            {
+              "order": 1,
+              "itemKor": "2군단",
+              "itemEn": "2nd Corps",
+              "display": "38%",
+              "remaining":  ".38",
+              "color":  "black"
+            },
+            {
+              "order": 2,
+              "itemKor": "3군단",
+              "itemEn": "3rd Corps",
+              "display": "28%",
+              "remaining":  ".28",
+              "color":  "black"
+            },
+            {
+              "order": 3,
+              "itemKor": "4군단",
+              "itemEn": "4th Corps",
+              "display": "91%",
+              "remaining":  ".91",
+              "color":  "green"
+            },
+            {
+              "order": 4,
+              "itemKor": "5군단",
+              "itemEn": "5th Corps",
+              "display": "58%",
+              "remaining":  ".58",
+              "color":  "red"
+            },
+            {
+              "order": 5,
+              "itemKor": "6군단",
+              "itemEn": "6th Corps",
+              "display": "35%",
+              "remaining":  ".35",
+              "color":  "black"
+            },
+            {
+              "order": 6,
+              "itemKor": "7군단",
+              "itemEn": "7th Corps",
+              "display": "58%",
+              "remaining":  ".58",
+              "color":  "red"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "subcategoryKor": "수도권 위협 장사정포",
+          "subcategoryEn": "LRA Threatening GSMA",
+          "items": [
+            {
+              "order": 0,
+              "itemKor": "",
+              "itemEn": "1st MAB",
+              "display": "57%",
+              "remaining":  ".57",
+              "color":  "red"
+            },
+            {
+              "order": 1,
+              "itemKor": "",
+              "itemEn": "2nd MAB",
+              "display": "96%",
+              "remaining":  ".96",
+              "color":  "green"
+            },
+            {
+              "order": 2,
+              "itemKor": "",
+              "itemEn": "3rd MAB",
+              "display": "11%",
+              "remaining":  ".11",
+              "color":  "grey"
+            },
+            {
+              "order": 3,
+              "itemKor": "",
+              "itemEn": "4th MAB",
+              "display": "32%",
+              "remaining":  ".32",
+              "color":  "black"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "subcategoryKor": "기동예비",
+          "subcategoryEn": "Mobile Reserves",
+          "items": [
+            {
+              "order": 0,
+              "itemKor": "",
+              "itemEn": "1st Mech Div",
+              "display": "7%",
+              "remaining":  ".07",
+              "color":  "grey"
+            },
+            {
+              "order": 1,
+              "itemKor": "",
+              "itemEn": "2nd Mech Div",
+              "display": "51%",
+              "remaining":  ".51",
+              "color":  "red"
+            },
+            {
+              "order": 2,
+              "itemKor": "",
+              "itemEn": "3rd Mech Div",
+              "display": "34%",
+              "remaining":  ".34",
+              "color":  "black"
+            },
+            {
+              "order": 3,
+              "itemKor": "",
+              "itemEn": "4th Mech Div",
+              "display": "73%",
+              "remaining":  ".73",
+              "color":  "red"
+            },
+            {
+              "order": 4,
+              "itemKor": "",
+              "itemEn": "5th Mech Div",
+              "display": "81%",
+              "remaining":  ".81",
+              "color":  "yellow"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
